@@ -1,5 +1,5 @@
 //
-//  DCViewController.h
+//  DCTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by David Chuang on 3/31/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface DCViewController : UIViewController
+@interface DCTableViewController : UITableViewController
 
 @end
